@@ -1,0 +1,1 @@
+"C:\Program Files\LibreOffice\program\soffice.exe" --headless --convert-to docx "2023-01-07.docx" "2023-01-07.doc"
